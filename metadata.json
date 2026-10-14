@@ -1,0 +1,7 @@
+{
+  "name": "GUSTYLE - Trợ lý Thời trang Cá nhân AI",
+  "description": "Ứng dụng web phối đồ cá nhân sử dụng AI, quản lý tủ đồ và gợi ý trang phục theo thời tiết và hoàn cảnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
